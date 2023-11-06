@@ -1,2 +1,2 @@
 # Chocolate-Datapacks
-A place for the all the Datapacks under The Chocolate Edition umbrella
+A place for the all the Data and Resource packs under The Chocolate Edition umbrella
