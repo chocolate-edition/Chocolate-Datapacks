@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "chocolate:lunar_shrine",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 25,
+      "separation": 15,
+      "salt": 71512534
+    }
+}

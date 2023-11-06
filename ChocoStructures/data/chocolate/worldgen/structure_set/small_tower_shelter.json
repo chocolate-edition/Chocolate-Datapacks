@@ -1,0 +1,16 @@
+{
+    "structures": [
+      {
+        "structure": "chocolate:small_tower_shelter",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 30,
+      "separation": 20,
+      "salt": 41559005
+
+
+    }
+}
