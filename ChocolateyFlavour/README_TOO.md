@@ -9,11 +9,11 @@ Flavour with a u because I am a member of the Commonwealth
 - More to come! (we hate sneak peeks!)
 
 ### Credits
-Made by: guyperson1
-Starring: Toxin
-Boss Despawner: Toxin
-Most of the work: Toxin
-Repository: Soul
-Additional help from: Moral support creeper plush
-Chocolate Modpack by: Poorprune
-Head of the Commonwealth: His Majesty King Charles III
+- Made by: guyperson1
+- Starring: Toxin
+- Boss Despawner: Toxin
+- Most of the work: Toxin
+- Repository: Soul
+- Additional help from: Moral support creeper plush
+- Chocolate Modpack by: Poorprune
+- Head of the Commonwealth: His Majesty King Charles III
