@@ -1,0 +1,14 @@
+{
+  "jei_desc.chocolate.placeholder": "This is a placeholder text. If you've found it, that means I've messed up really bad...",
+  "jei_desc.chocolate.stage_one": "This is a Stage One item! It can be used after unlocking 3 of the Eyes.",
+  "jei_desc.chocolate.stage_two": "This is a Stage Two item! It can be used after unlocking 6 of the Eyes.",
+  "jei_desc.chocolate.stage_three": "This is a Stage Three item! It can be used after unlocking 9 of the Eyes.",
+  "jei_desc.chocolate.stage_four": "This is a Stage Four item! It can be used after unlocking 12 of the Eyes.",
+  "jei_desc.chocolate.stage_five": "This is a Stage Five item! It can be used after unlocking 16 of the Eyes.",
+  "jei_desc.chocolate.chemical_x": "This item can be obtained by brewing a Thick Potion with a Hulk Hammer, a Creeper Shard, a Mutant Skeleton Skull, or an Endersoul Hand. Splash it on a Zombie, Creeper, Skeleton, or Enderman and watch it mutate!",
+  "jei_desc.chocolate.burning_ashes": "This item is dropped by the Ignited Revenants found in the Burning Arena, and can be used on an Altar of Fire to summon Ignis.",
+  "jei_desc.chocolate.abyssal_sacrifice": "This item can be used on an Altar of Abyss to summon the Leviathan.",
+  "jei_desc.chocolate.astral_dust_1": "This item can be brewed with any vanilla Tier 2 Potion (a potion with extended duration or amplified effect) to create an Ultimate Potion with both amplified effects AND an extended duration.",
+  "jei_desc.chocolate.astral_dust_2": "Potions that cannot be amplified will have their durations doubled, and potions that cannot be extended will be amplified by an additional level.",
+  "jei_desc.chocolate.mending": "Mending is now craftable, but can no longer be traded from Villagers."
+}
