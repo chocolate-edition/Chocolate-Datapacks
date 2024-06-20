@@ -30,10 +30,10 @@
 					"generic.attack_damage": 0.5
 				},
 				"primaryEffects": {
-					"skewering": 0.8
+					"skewering": 0.5
 				},
 				"secondaryEffects": {
-					"armorPenetration": 15
+					"armorPenetration": 2
 				},
 				"tertiaryEffects": {
 					"armorPenetration": -1.5
